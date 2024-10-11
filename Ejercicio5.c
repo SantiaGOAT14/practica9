@@ -11,3 +11,7 @@ printf("Dirección de memoria: %d\n",ap);/*Se imprime la dirección de
 memoria que almacena el apuntador*/
 return 0;
 }
+
+
+
+//lA VARIABLE * GUARDA 
