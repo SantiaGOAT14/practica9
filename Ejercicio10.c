@@ -12,6 +12,6 @@ int main ()
       indice++;
     }
   while (indice < 5)
-    printf("\n");
+  printf("\n");
   return 0;
 }
